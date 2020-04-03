@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Lserje
+       new commit
         </a>
       </header>
     </div>
