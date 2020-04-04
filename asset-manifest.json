@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/scan-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/scan-app/static/js/main.861d4fa3.chunk.js",
+    "main.js.map": "/scan-app/static/js/main.861d4fa3.chunk.js.map",
+    "runtime-main.js": "/scan-app/static/js/runtime-main.a1dc27d9.js",
+    "runtime-main.js.map": "/scan-app/static/js/runtime-main.a1dc27d9.js.map",
+    "static/js/2.960cd9a4.chunk.js": "/scan-app/static/js/2.960cd9a4.chunk.js",
+    "static/js/2.960cd9a4.chunk.js.map": "/scan-app/static/js/2.960cd9a4.chunk.js.map",
+    "index.html": "/scan-app/index.html",
+    "precache-manifest.87d011458b14f97a357a0a626243595b.js": "/scan-app/precache-manifest.87d011458b14f97a357a0a626243595b.js",
+    "service-worker.js": "/scan-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/scan-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.960cd9a4.chunk.js.LICENSE.txt": "/scan-app/static/js/2.960cd9a4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/scan-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1dc27d9.js",
+    "static/js/2.960cd9a4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.861d4fa3.chunk.js"
+  ]
+}
